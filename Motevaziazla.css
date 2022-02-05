@@ -1,0 +1,22 @@
+body{
+    direction: ltr;
+    text-align: center;
+}
+.bu{
+    display: inline-block;
+    padding: 0.5em 1em;
+    border: 0;
+    margin: 1em 0.2em;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    background-color: #58a;
+    text-transform: uppercase;
+    font: 15px tahoma;
+}
+.bu{
+    transform: skewx(45deg);
+}
+.bu div{
+    transform: skewX(-45deg);
+}
